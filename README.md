@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Jorge Muñiz
+- 👀 I'm interested in developing solutions with technologies
